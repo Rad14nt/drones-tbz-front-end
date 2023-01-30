@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="card-name">
           <img
             alt="paypal"
-            src="https://www.google.com/https://sedberkdesign.com/wp-content/uploads/2020/06/kisspng-paypal-logo-brand-font-payment-paypal-logo-icon-paypal-icon-logo-png-and-vecto-5b7f273e45e8a9.9067728615350597742864.png://dwglogo.com/wp-content/uploads/2016/08/PayPal_Logo_Icon.png?sa=i&url=https%3A%2F%2Fsedberkdesign.com%2Fkisspng-paypal-logo-brand-font-payment-paypal-logo-icon-paypal-icon-logo-png-and-vecto-5b7f273e45e8a9-9067728615350597742864%2F&psig=AOvVaw3JLJQm_XN66jpFS8r93RUO&ust=1675200197207000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj7_J6d8PwCFQAAAAAdAAAAABAK"
+            src="https://1000logos.net/wp-content/uploads/2017/05/emblem-Paypal.jpg"
           />
         </div>
         <div className="card-name">
